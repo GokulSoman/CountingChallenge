@@ -8,6 +8,7 @@ __pycache__/
 
 # custom
 dataset/
+gokul_soman/screw_detection/
 
 # Distribution / packaging
 .Python
