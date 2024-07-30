@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# custom
+dataset/
+
 # Distribution / packaging
 .Python
 build/
@@ -135,7 +138,7 @@ venv.bak/
 .spyproject
 
 # Rope project settings
-.ropeproject
+ScrewAndBolt_20240713.ropeproject
 
 # mkdocs documentation
 /site
